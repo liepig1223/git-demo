@@ -4,3 +4,4 @@
 这是a的第四行
 这是hot-fix的新一行（master没有的）
 这是测试用的冲突1
+在GitHub上进行commit
